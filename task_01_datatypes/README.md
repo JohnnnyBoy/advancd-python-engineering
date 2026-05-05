@@ -76,6 +76,7 @@ Set: {'S2', 'S1'}, Typ: <class 'set'>
 
 Frozenset: frozenset({1, 2, 3}), Typ: <class 'frozenset'>
 
+--------------------------
 
 ========== Task 03/04: Type Casting ==========
 
@@ -113,20 +114,15 @@ bool True zu int: 1
 
 bool False zu int:0
 
--
-
---
-
----
-
-----
-
+--------------------------
 
 10.5
 
 True
 
 [1, 2]
+
+--------------------------
 
 ========== Task 06: Dictionary Manipulation ==========
 
