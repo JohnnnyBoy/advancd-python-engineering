@@ -53,3 +53,36 @@ Die finale Liste `mylist` weist folgende Struktur auf:
     {'Name': 'Hans', 'Alter': 21, 'Geschlecht': 'm', 'Stadt': 'Ingolstadt'},
     {'Name': 'Stefani', 'Alter': 20, 'Geschlecht': 'w', 'Stadt': 'Eichstädt'}
 ]
+```
+### Konsolen-Output
+
+Widerstand: 470, Typ: <class 'int'>
+Spannung: 230.0, Typ: <class 'float'>
+Impedanz: (10+5j), Typ: <class 'complex'>
+
+Einheit: <class 'str'>, Liste: <class 'list'>
+Rohdaten: b'Start', Typ: <class 'bytes'>
+
+Set: {'S2', 'S1'}, Typ: <class 'set'>
+Frozenset: frozenset({1, 2, 3}), Typ: <class 'frozenset'>
+
+Dict-Wert Zeit: 1.5, Typ: <class 'dict'>
+Aktiv: <class 'bool'>, Fehler: <class 'NoneType'>
+
+--- Typumwandlungen ---
+Casting float 3.99 zu int: 3
+Berechnung: 1.0 A
+int 0 zu bool:   False
+int 42 zu bool:  True
+str '' zu bool:  False
+None zu bool:    False
+bool True zu int: 1
+bool False zu int: 0
+
+--- Dictionaries & Listen ---
+Dictionary: {'Name': None, 'Alter': None, 'Geschlecht': None}, Typ: <class 'dict'>
+Alle Werte: dict_values(['Hans', 21, 'm'])
+Das Alter von Hans ist bekannt.
+Die Information 'Gewicht' fehlt im Dictionary.
+Meine Liste: [{'Name': 'Hans', 'Alter': 21, 'Geschlecht': 'm'}, {'Name': 'Stefanie', 'Alter': 20, 'Geschlecht': 'w'}]
+Finale Liste: [{'Name': 'Hans', 'Alter': 21, 'Geschlecht': 'm', 'Stadt': 'Ingolstadt'}, {'Name': 'Stefanie', 'Alter': 20, 'Geschlecht': 'w', 'Stadt': 'Eichstätt'}]
