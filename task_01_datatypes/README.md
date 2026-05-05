@@ -1,4 +1,4 @@
-# 🧪 Task 01: Werte, Datentypen und Kollektionen
+# Task 01: Werte, Datentypen und Kollektionen
 
 In diesem ersten Aufgabenblock liegt der Fokus auf dem Fundament von Python. Ziel ist es, ein tiefes Verständnis für die interne Logik von Datentypen, deren Konvertierung und das Handling komplexer Kollektionen (Listen, Tupel, Dictionaries) zu entwickeln.
 
